@@ -2,3 +2,5 @@
 ### Welcome to Sample Open Source Project! 👋
 
 Take inspiration from here , join, or encourage others to attempt!
+
+Every idea is greatly appreciated!
