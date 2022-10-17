@@ -14,7 +14,7 @@
  
  * Adding collaborator 2 -
 
-![adding collabarator2](https://user-images.githubusercontent.com/92079088/196075024-3ec3be15-66b8-4e49-bc82-293f6663c773.png)
+![image](https://user-images.githubusercontent.com/92079088/196241905-3059b107-6cba-47eb-91e0-4b0b703e4604.png)
 
  
  * Manage access -
